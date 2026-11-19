@@ -93,19 +93,6 @@ The models are evaluated using the following metrics:
 
 These evaluation metrics help assess the classification performance of each algorithm.
 
-## Project Structure
-
-
-Online-Shoppers-Purchase-Intention-Prediction/
-│
-├── LogisticRegression.py
-├── RandomForest.py
-├── knn.py
-├── svm.py
-├── online_shoppers_intention.csv
-├── requirements.txt
-└── README.md
-
 
 ## Installation and Usage
 
